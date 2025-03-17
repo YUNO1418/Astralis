@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Black Clover RP](README.md)
+* [Cahier des Charge](cahier-des-charge/README.md)
+  * [Cahier des Charges des Stats](cahier-des-charge/cahier-des-charges-des-stats.md)
 * [Lore](lore/README.md)
   * [Clover](lore/clover.md)
   * [Spade](lore/spade.md)
@@ -14,7 +16,7 @@
 * [🐗 Sanglier d'Acier](compagnie-chevalier-mage/sanglier-dacier.md)
 * [🐬 Typhon Céleste](compagnie-chevalier-mage/typhon-celeste.md)
 
-## 📚 Grimoire&#x20;
+## 📚 Grimoire
 
 * [📖 Grimoire Commun](grimoire/grimoire-commun/README.md)
   * [🔥 Magie de Feu](grimoire/grimoire-commun/magie-de-feu/README.md)
